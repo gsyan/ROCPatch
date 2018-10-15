@@ -1,5 +1,6 @@
 {
-    "version_app_patch": "1.0.1",
+    "app_version": "1.0",
+    "patch_version": 1,
     "min_patch_version": 1,
     "is_opened": true,
     "is_regular": true,
